@@ -1,7 +1,26 @@
 ---
 layout: post
-title: "test"
-date: 2012-12-13 13:32
+title: "Awesome Octopress!!"
+date: 2012-12-13 10:00
 comments: true
-categories: 
+categories: diary
 ---
+
+# Header 1
+
+## Header 2
+
+* list
+* list
+
+<!-- more -->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dui est, sodales non tempor nec, bibendum vel elit. Maecenas et libero odio. Nam eu ante nulla, sit amet pulvinar risus. Duis posuere mi eu turpis lobortis blandit vitae sed nisl. Sed luctus scelerisque tortor. Vestibulum feugiat tristique felis, ac sodales sem bibendum vitae. Praesent a sapien orci, sed porttitor arcu. Proin varius erat ac turpis pharetra consectetur.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum urna id nisl congue congue. Ut bibendum quam et risus luctus rhoncus lacinia tellus tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam eu urna ac diam aliquet sollicitudin id sed sem. Praesent eget nisi in quam elementum consectetur sed eu mauris. Aenean non leo mi. Morbi eget nisl est, vel dignissim massa. Fusce venenatis felis vitae diam posuere porta. Aliquam erat volutpat. Maecenas auctor quam non elit luctus vel cursus ante ultricies. Nulla id urna metus, ut placerat nisl. Aliquam sapien odio, rhoncus non tincidunt id, ultricies nec nulla.
+
+Proin at ante nec nisi condimentum pretium. Mauris consequat lectus vel libero posuere ac porta felis porttitor. Phasellus aliquet nunc eu urna tristique vel adipiscing risus commodo. Nam massa quam, mattis at porttitor vitae, cursus cursus lorem. Aenean aliquet elementum neque vitae cursus. In tortor lectus, interdum sit amet rutrum gravida, varius vitae ligula. Maecenas auctor interdum ornare.
+
+Duis feugiat condimentum lorem eu bibendum. Integer tristique, tellus vel commodo tristique, sapien ipsum ornare orci, quis dignissim nunc diam at est. Curabitur adipiscing, lectus consectetur faucibus tristique, felis est faucibus neque, a condimentum dui neque in sapien. Fusce id massa ac tellus aliquam porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed quam id eros sodales pharetra. Integer ac libero arcu. Nulla facilisi. In purus ante, ornare eget laoreet vel, congue nec nunc.
+
+Duis at nisl mi. Phasellus ullamcorper consequat massa, ac accumsan purus dignissim eget. Curabitur tristique, lectus ac elementum hendrerit, risus urna interdum dolor, venenatis ultricies elit diam a velit. Mauris vitae magna eget orci vulputate euismod. Maecenas ut turpis in nisl pharetra posuere. Duis ut eros in metus rhoncus blandit. Vivamus ultricies quam vitae ipsum lobortis bibendum. Cras lobortis odio eu felis molestie pellentesque. Aenean sit amet ipsum et turpis suscipit tristique in sit amet justo. Pellentesque euismod porttitor condimentum. Nunc sed mauris a massa consectetur iaculis id eget ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam ornare augue eget sapien tincidunt blandit. Integer metus leo, aliquam sed aliquet vel, rutrum et erat.
