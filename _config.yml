@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://tocky-ruby.azurewebsites.net/
-title: Install Maniax Demo
+title: Install Maniax Octopress
 subtitle: A blogging framework for hackers.
 author: tocky
 simple_search: http://google.com/search
@@ -68,11 +68,11 @@ twitter_user: tocky816
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
